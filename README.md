@@ -1,7 +1,7 @@
 # Projeto-Analise-de-dados-Seguradora
 
-Criei esse repositório com o intuito de demonstrar as habilidades que venho desenvolvendo em Python e Power BI. 
-Neste espaço posso expôr meus conhecimentos em extração e manipulação de dados, gráficos, criação,vizualização e analise de tabelas simples e cruzadas  para geração de insights e também o tratamento de dados faltantes e outliers.
+Criei esse repositório com o intuito de demonstrar os conhecimentos que venho desenvolvendo em Python (pandas, matplotlib) 
+Conhecimentos em extração e manipulação de dados, gráficos, criação,visualização e análise de tabelas para geração de insights e também o tratamento de dados faltantes e outliers.
 
 
 Dados
